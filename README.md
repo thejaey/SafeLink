@@ -1,2 +1,2 @@
-# SafeLink
-Encryp dan Descryp link
+# Belajar
+Ajarin dong bingung nih
